@@ -1,6 +1,6 @@
-1- Criar um repositório local e adiciona-lo ao Github - remoto [ok]
+1- Criar um repositório local e adiciona-lo ao Github - remoto [X]
 
-2- Clonar um repositório remoto para o computador local - []
+2- Clonar um repositório remoto para o computador local - [X]
 
 3- Fazer Alterações >> Adicionar / Commitar / Enviar Arquivos - []
 
